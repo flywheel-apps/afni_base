@@ -1,5 +1,7 @@
 # Overview
-This is an easy way to get started working with AFNI on Ubuntu. These instructions are written for ubuntu 22.04 but could be used on other OSes.
+This is an easy way to get started working with [AFNI](https://afni.nimh.nih.gov/) (Analysis of Functional NeuroImages)  on Ubuntu. These instructions are written for ubuntu 22.04 but could be used on other OSes.
+
+<img src="https://afni.nimh.nih.gov/sites/all/themes/professional_theme/images/slide-image-3.jpg" />
 
 # Setup Environment - Ubuntu 22.04
 1. Install git
