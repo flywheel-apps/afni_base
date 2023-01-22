@@ -27,6 +27,7 @@ sudo usermod -aG docker $USER
 # Clone this repo & Get Started
 ```bash
 git clone https://github.com/caseykelso/afni-easy.git
+cd afni-easy
 ./build.sh
 ```
 
